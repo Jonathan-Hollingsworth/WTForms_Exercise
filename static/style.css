@@ -1,0 +1,17 @@
+button {
+    text-decoration: none;
+    border-radius: 10%;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.error {
+    background-color: palevioletred;
+    color: crimson;
+    font-size: larger;
+    border: 2px solid crimson;
+    padding: 5px;
+}
